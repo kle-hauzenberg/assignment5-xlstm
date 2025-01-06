@@ -1,0 +1,12 @@
+Operating System: Linux
+Python Version: Python 3.10.12
+GPU Details: No GPU detected
+Numpy Version: 1.26.4
+CUDA Version: 12.2
+CUDA-nvcc Details: nvcc: NVIDIA (R) Cuda compiler driver
+Copyright (c) 2005-2023 NVIDIA Corporation
+Built on Tue_Aug_15_22:02:13_PDT_2023
+Cuda compilation tools, release 12.2, V12.2.140
+Build cuda_12.2.r12.2/compiler.33191640_0
+PyTorch Version: 2.5.1+cu121
+PyTorch-CUDA Version: 12.1
