@@ -24,3 +24,4 @@ torchaudio @ https://download.pytorch.org/whl/cu121/torchaudio-2.5.1%2Bcu121-cp3
 torchmetrics==1.6.1
 torchsummary==1.5.1
 torchvision @ https://download.pytorch.org/whl/cu121/torchvision-0.20.1%2Bcu121-cp310-cp310-linux_x86_64.whl
+xlstm @ git+https://github.com/NX-AI/xlstm@79e463c84cd8bb839bb9a7d81138f1a0184c68a1
